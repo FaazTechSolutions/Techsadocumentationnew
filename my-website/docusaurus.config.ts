@@ -23,7 +23,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'FaazTechSolutions', // Usually your GitHub org/user name.
-  projectName: 'TechsaDocumentation', // Usually your repo name.
+  projectName: 'Techsadocumentationnew', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -101,10 +101,6 @@ const config: Config = {
         {
           title: 'Docs',
           items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
           ],
         },
         {
